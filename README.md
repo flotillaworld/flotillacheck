@@ -1,0 +1,2 @@
+# flotillacheck
+check pull
