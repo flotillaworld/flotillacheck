@@ -1,0 +1,1679 @@
+[33mcommit 15437f830b81fb730a36a27f8a8ac9fddef23c4b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 13 10:56:58 2020 -0300
+
+    Update Readme [skip ci]
+
+[33mcommit f5efb3cb82baed471494c42d82f4ecb97a63da69[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 13 10:54:19 2020 -0300
+
+    Update Readme [skip ci]
+
+[33mcommit f44e12128147a4e5ff9d5e5f1d4b4cb1c20c7aab[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 13 10:53:17 2020 -0300
+
+    Update Readme [skip CI]
+
+[33mcommit eaabac7744117825632bd602ba9d247329f25aa7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 13 10:46:19 2020 -0300
+
+    Update Changelog [skip ci]
+
+[33mcommit 06430a4561289f8346f91588ccbe11360a013189[m
+Merge: e0b08ea aaff91a
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun May 24 00:42:15 2020 -0300
+
+    Merge pull request #54 from jeffersonRibeiro/npm-audit
+    
+    Update vulnerable packages
+
+[33mcommit aaff91a88a89d6918379fa02ec691631c4b5390e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun May 24 00:41:16 2020 -0300
+
+    Update vulnerable packages
+
+[33mcommit e0b08ea2f889a21af5e3fd1d7a5b8053c52bd859[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun May 24 00:22:54 2020 -0300
+
+    Fix "Component" is defined but never used  no-unused-vars
+
+[33mcommit e08229c721d29a76025dd6f36e6a50fb626dc332[m
+Merge: 97ab95a 8a1120d
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun May 24 00:12:33 2020 -0300
+
+    Merge pull request #48 from muzakparov/function-filter
+    
+    Turn Filter class into function
+
+[33mcommit 97ab95a2600a8215aaef788dae453a4af11e7771[m
+Merge: f0f67e5 84ed743
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:53:13 2020 -0300
+
+    Merge pull request #52 from jeffersonRibeiro/update-ci-to-include-testing-branches
+    
+    Update ci to include testing for branches
+
+[33mcommit 84ed743c992441ca202d87dca62772921650ecd0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:50:40 2020 -0300
+
+    fix whitespace
+
+[33mcommit a57365b804335e508f8039477a88cc6c94537881[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:49:51 2020 -0300
+
+    fix whitespace
+
+[33mcommit 872bd9c1d826891f49fc421e86ce5e06c9697196[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:45:56 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit 2c42897576c362685a8d013ab13320664490d461[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:45:02 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit ee6287a57841d21c343856efc212cb243c3813cf[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:40:31 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit ad437beb3f8c03408129632310eafdb9576feb0a[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:35:56 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit 84d828a28d25c57a2a98bb93549d2aabbbed90a9[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:34:17 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit b35dee40fadf61aadf886a6b19d3fb6d284ab1ae[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:31:47 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit f27c0b956e0285b85e4f5a9f987103c5b1effa2e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:29:27 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit 4ad5814899595e7026fb21e0dea1713d9f0e38ff[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:26:41 2020 -0300
+
+    Fix ci syntax
+
+[33mcommit 7401e58d212feab02af326d1e6212c878574cca6[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:18:10 2020 -0300
+
+    Added testing for branchs and PR
+
+[33mcommit f0f67e53d4a01917c1c7333cb3915ce796e30540[m
+Merge: c4032f5 4b89057
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat May 23 23:00:04 2020 -0300
+
+    Merge pull request #51 from jeffersonRibeiro/dependabot/npm_and_yarn/acorn-5.7.4
+    
+    Bump acorn from 5.7.3 to 5.7.4
+
+[33mcommit 4b890579675882cd2a731fc45e8fb397961cdd94[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Mar 14 13:33:32 2020 +0000
+
+    Bump acorn from 5.7.3 to 5.7.4
+    
+    Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+    - [Release notes](https://github.com/acornjs/acorn/releases)
+    - [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8a1120dd82c0d0407b32d004e117c4dea830c802[m
+Author: muzakparov <muzakparov@gmail.com>
+Date:   Sat Feb 8 20:21:50 2020 +0300
+
+    Turn Filter class into function
+
+[33mcommit c4032f5244281f42708dee97d97de4063843aba1[m
+Merge: 1de46cc 9de708f
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Dec 27 15:39:56 2019 -0300
+
+    Merge pull request #45 from jeffersonRibeiro/staging
+    
+    Staging to master
+
+[33mcommit 9de708f77d7939fb714b957ea617a3a3ae9970ac[m
+Merge: c7da26d 110d15b
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Dec 27 15:38:12 2019 -0300
+
+    Merge pull request #44 from jeffersonRibeiro/dependabot/npm_and_yarn/handlebars-4.5.3
+    
+    Bump handlebars from 4.0.12 to 4.5.3
+
+[33mcommit 110d15bce64d5a8406d6eb134c6a006959aad1b5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Dec 27 02:14:50 2019 +0000
+
+    Bump handlebars from 4.0.12 to 4.5.3
+    
+    Bumps [handlebars](https://github.com/wycats/handlebars.js) from 4.0.12 to 4.5.3.
+    - [Release notes](https://github.com/wycats/handlebars.js/releases)
+    - [Changelog](https://github.com/wycats/handlebars.js/blob/master/release-notes.md)
+    - [Commits](https://github.com/wycats/handlebars.js/compare/v4.0.12...v4.5.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit c7da26dc80e2b3eea8975d42bfa5838d9886b8c6[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Nov 26 14:28:10 2019 -0300
+
+    Update README.md
+
+[33mcommit 121227e8f491a161e8a6202d356927f03c5b0ce8[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Nov 26 14:25:33 2019 -0300
+
+    Update README.md
+
+[33mcommit cbe849d72d8eb63dec621f6ab4a833bca4123bcb[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Nov 26 12:06:18 2019 -0300
+
+    Update README.md
+
+[33mcommit b195521e9cd13dff791d4f10371ee9dc54f9b109[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Nov 26 12:02:08 2019 -0300
+
+    Update .all-contributorsrc
+
+[33mcommit 3706f801ea5232426e5ee492b5fc1f7c42f405b0[m
+Merge: e922ebd c1ae4ce
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 28 13:27:25 2019 -0300
+
+    Merge pull request #39 from jeffersonRibeiro/revert-38-functional-component
+    
+    Revert "change CheckBox component to functional component"
+
+[33mcommit c1ae4ce7f095bf8e44a06a6106b92743641ce22c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 28 12:12:04 2019 -0300
+
+    Revert "change CheckBox component to functional component"
+
+[33mcommit e922ebd1ad4a81a8a3914ae357d10d631a6ad768[m
+Merge: 1de46cc a940ecb
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 28 12:10:33 2019 -0300
+
+    Merge pull request #38 from taqiabdulaziz/functional-component
+    
+    change CheckBox component to functional component
+
+[33mcommit 1de46cc893a5196db70d061e69b68e45c3a46a7c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 28 11:08:14 2019 -0300
+
+    Remove Instagram
+
+[33mcommit a940ecb9d400350ea825d4f49cfb7729fe36e420[m
+Author: taqiabdulaziz <muhammad.taqi@myboost.id>
+Date:   Mon Oct 28 15:19:14 2019 +0700
+
+    change CheckBox component to functional component
+
+[33mcommit 3a0873a64eb86b007152bf1b4adfd22efd7d885d[m
+Merge: bfadf63 cd07ffa
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Oct 25 22:31:00 2019 -0300
+
+    Merge pull request #37 from jeffersonRibeiro/instagram-link
+    
+    Add instagram account
+
+[33mcommit cd07ffadac50ece7eaac17cb4446595acb8eaedc[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Oct 25 22:30:09 2019 -0300
+
+    Add instagram account
+
+[33mcommit bfadf639411d2a5eea8e4d7922db8a3d4a8bf2f3[m
+Merge: 4850e28 325abc2
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 24 11:03:26 2019 -0300
+
+    [skip ci] Merge pull request #36 from jeffersonRibeiro/all-contributors/add-HayTran94
+    
+    docs: add HayTran94 as a contributor
+
+[33mcommit 325abc20db7c134a25044071226b57fd64100e00[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Thu Oct 24 14:02:08 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit a90207b13ec7d88c84d980bca5bbb6e8ec17da4a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Thu Oct 24 14:02:07 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 4850e28b26643b84ba73a042b140f42a3e696ba8[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 24 10:58:19 2019 -0300
+
+    Oops, forgot to close {
+
+[33mcommit e72c0b9d7b6f5525b169badb498ce7697c76fd3f[m
+Merge: d98d521 4f158a2
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 24 10:52:25 2019 -0300
+
+    Merge pull request #35 from HayTran94/master
+    
+    feature: increase/decrease  product quantity
+
+[33mcommit 4f158a22ba5815ceb3407dbe0fbcdd80a78a09f0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 24 10:51:50 2019 -0300
+
+    Disable minus button if quantity is 1
+
+[33mcommit b4f6939ff5ff650b0f132a65e874f5be37bf0148[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 24 10:47:29 2019 -0300
+
+    Update style.scss
+
+[33mcommit 97c71af23041e6834752207994879b0c1e24f2af[m
+Author: haytv <haytv@vng.com.vn>
+Date:   Fri Oct 18 11:53:08 2019 +0700
+
+    feature: increase/decrease  product quantity
+
+[33mcommit d98d521c0a626aa9de71774d13408cb0a1ca4b33[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 17 12:14:19 2019 -0300
+
+    Update Readme [skip ci]
+
+[33mcommit 8380ca3036756c84cf551d87fdbbe1031f7b1ffc[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Oct 17 12:11:48 2019 -0300
+
+    Update Readme [skip ci]
+
+[33mcommit 12cbe686f1b79c4eb0f5cda5ededeebbbdcd10a9[m
+Merge: d36a706 6947b29
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:13:12 2019 -0300
+
+    Merge pull request #34 from jeffersonRibeiro/all-contributors/add-criesbeck
+    
+    docs: add criesbeck as a contributor
+
+[33mcommit 6947b29258b01229723d7cc1fd90e711d0c4b970[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:12:54 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit df30e44f586a838f38cd7d64d8adcb3056f1ed9b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:12:53 2019 +0000
+
+    docs: update README.md
+
+[33mcommit d36a706d5b4df4a1ea8274959d4abbf0d2e1e081[m
+Merge: d04e450 aaa3834
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:08:31 2019 -0300
+
+    Merge pull request #33 from jeffersonRibeiro/all-contributors/add-saher-elgendy
+    
+    docs: add saher-elgendy as a contributor
+
+[33mcommit aaa3834c347b2f608409ed50627a4e0d78e907f6[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:08:19 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit 9d8d4e93fb93b2621ffb416c5ffb2c1f3a15e4eb[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:08:18 2019 +0000
+
+    docs: update README.md
+
+[33mcommit d04e450388458a68f4ebdb6cc7fc72e03e579885[m
+Merge: 338bf22 eeabee7
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:06:40 2019 -0300
+
+    Merge pull request #32 from jeffersonRibeiro/all-contributors/add-harshan89
+    
+    docs: add harshan89 as a contributor
+
+[33mcommit eeabee7df91c156ed41888dd6ac5124bec309507[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:06:28 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit 62f0a0a71904c426aefb7319cbe65f5bb97577f7[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:06:27 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 338bf22bc187418b55c63d5c0781483026116386[m
+Merge: da8233d abb4800
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:05:08 2019 -0300
+
+    Merge pull request #31 from jeffersonRibeiro/all-contributors/add-nhoktenz
+    
+    docs: add nhoktenz as a contributor
+
+[33mcommit abb4800698b2941f6c5b040d60ac1893b5490d46[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:04:57 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit 9429628546b09e32a767ff4b0a988c89e719554e[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 20:04:56 2019 +0000
+
+    docs: update README.md
+
+[33mcommit da8233d77724c5c2cecafce94ea4a277817d6616[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:02:36 2019 -0300
+
+    [skip ci] Update Readme
+
+[33mcommit 4e830c03858367463ae3bbc7a39df81e266beb6c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 17:01:26 2019 -0300
+
+    [skip ci] Update all-contributorsrc
+
+[33mcommit 0e8c0741c70a294b0d8e766d434459a826edcfa5[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:58:18 2019 -0300
+
+    Fix addProduct
+
+[33mcommit a7137d3db80ee8f6442ae20bd4321e92cb6c721d[m
+Merge: 62d0adc 3ece66f
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:54:15 2019 -0300
+
+    Merge pull request #30 from jeffersonRibeiro/all-contributors/add-NguyenDa18
+    
+    docs: add NguyenDa18 as a contributor
+
+[33mcommit 3ece66f11e7cb116f240bea6541c5f122d752f7a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:54:04 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit 76aa4eff2d60bee211f7d28d770753b6f0a6efbe[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:54:03 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 62d0adc008a9a4336fa120b03d79c36f7b5f8fda[m
+Merge: d5e1337 bf93138
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:53:33 2019 -0300
+
+    Merge pull request #29 from jeffersonRibeiro/all-contributors/add-Stabja
+    
+    docs: add Stabja as a contributor
+
+[33mcommit bf9313898e1279376f2ac637c6a526808ac85d55[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:53:22 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit c5044707d148ae1d69d611b502a6e4c43f6e7192[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:53:21 2019 +0000
+
+    docs: update README.md
+
+[33mcommit d5e1337de67efb3d2bbc927833828bdb5acb3304[m
+Merge: de9f698 e583fae
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:52:24 2019 -0300
+
+    Merge pull request #28 from jeffersonRibeiro/all-contributors/add-rithikachowta08
+    
+    docs: add rithikachowta08 as a contributor
+
+[33mcommit e583fae02350df99985d6ab4b21d79bccd8ae264[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:52:13 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit a09f087ee5ae9d568e8eab83a63029b9d4e2d70e[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:52:12 2019 +0000
+
+    docs: update README.md
+
+[33mcommit de9f698d3d908db9081eca27ced7bb5dbf77618d[m
+Merge: 646c6d7 93be549
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:51:18 2019 -0300
+
+    Merge pull request #27 from jeffersonRibeiro/all-contributors/add-deskoh
+    
+    docs: add deskoh as a contributor
+
+[33mcommit 93be549d28a9bbab41feee2840e0282bb535e005[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:51:06 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit e25e7a7701c2b89aec6ed625afe36ae94f573ddd[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:51:05 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 646c6d7ccb7379ebe346e2898f05ba72df58053d[m
+Merge: 2ce79a9 656d398
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:50:16 2019 -0300
+
+    Merge pull request #26 from jeffersonRibeiro/all-contributors/add-hmble
+    
+    docs: add hmble as a contributor
+
+[33mcommit 656d3987f865714f0ef07541cf84b983179160cc[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:50:02 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit e26023050563d76c640d7eb84edb4abaac0250a4[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:50:01 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 2ce79a936ed4b0952284671d2589933ddb146d43[m
+Merge: 2a9e49d 120ea98
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:49:41 2019 -0300
+
+    Merge pull request #12 from hmble/patch-1
+    
+    No need for addProduct
+
+[33mcommit 2a9e49db2d0e6eb7d3b0dbca93e75f2529746bcb[m
+Merge: dd0579b 7304772
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:47:43 2019 -0300
+
+    Merge pull request #25 from jeffersonRibeiro/all-contributors/add-ksakiyama
+    
+    docs: add ksakiyama as a contributor
+
+[33mcommit 73047723811f2542d183dd0db1f2409f3b7b838c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:47:12 2019 +0000
+
+    docs: update .all-contributorsrc
+
+[33mcommit 31ba7928f90b94e0238feb95e4ebebad99c55a7a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:47:11 2019 +0000
+
+    docs: update README.md
+
+[33mcommit dd0579b259b0156bb8d50ba231094ac501c41fbb[m
+Merge: 0fb5570 3ed335e
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 16:44:34 2019 -0300
+
+    Merge pull request #24 from jeffersonRibeiro/all-contributors/add-Syed-Saad-Qamar
+    
+    docs: add Syed-Saad-Qamar as a contributor
+
+[33mcommit 3ed335eec9e09e122786deee5243f6dda49c4040[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:43:06 2019 +0000
+
+    docs: create .all-contributorsrc
+
+[33mcommit c7214f05af3047c137fcc0f81af2391886735064[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 19:43:05 2019 +0000
+
+    docs: update README.md
+
+[33mcommit 0fb5570e7e4aed08c4c70ab915ba362342ded975[m
+Merge: c05e22c 927760a
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 16 14:43:46 2019 -0300
+
+    Merge pull request #22 from Syed-Saad-Qamar/fix/10-comparing-two-arrays-in-componentWillReceiveProps
+    
+    fix(shelf-&-style): fix array compare and improve style
+
+[33mcommit 927760ad46d87cb7370533c2a32f0365464ca2b6[m
+Author: syed.saad <syed.saad@iomechs.com>
+Date:   Wed Oct 16 22:29:39 2019 +0500
+
+    clean(style): remove style and deep filter check part
+
+[33mcommit c05e22c19c8f7b7aa763a33b527ee7eacf5e69f7[m
+Merge: a5575fb 74506fd
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Oct 12 22:59:11 2019 -0300
+
+    Merge pull request #23 from Syed-Saad-Qamar/fix/11-redundant-mapStateToProps-in-filter-component
+    
+    remove(filter): remove unused code
+
+[33mcommit 74506fd57e7965d1033729dcd99c2259c9a34ce5[m
+Author: syed.saad <syed.saad@iomechs.com>
+Date:   Sun Oct 13 05:02:59 2019 +0500
+
+    remove(filter): remove unused code
+
+[33mcommit dab97d4f0d92e10e969bf13b6c1a0e2bcc645084[m
+Author: syed.saad <syed.saad@iomechs.com>
+Date:   Sun Oct 13 04:50:10 2019 +0500
+
+    fix(shelf-&-style): fix array compare and improve style
+
+[33mcommit a5575fb8894c5780af4bda3e84be7fe8cda8d300[m
+Merge: 8fcbf84 e608d79
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Jul 9 16:34:07 2019 -0300
+
+    Merge pull request #20 from Stabja/master
+    
+    Shelf Filter CSS was not applied, and Build was failing. Fixed these.
+
+[33mcommit e608d795ab83cd64d6bac198f583c8cc040c3607[m
+Author: Swetabja Hazra <swetabja.hazra@olacabs.com>
+Date:   Tue Jul 9 12:52:58 2019 +0530
+
+    Shelf Filter CSS was not applied, and Build was failing. Fixed these.
+
+[33mcommit 8fcbf84967955b9407a18190691da513d8a9b628[m
+Merge: 97f9e6d 4104933
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 5 17:30:49 2019 -0300
+
+    Merge pull request #19 from NguyenDa18/csb-1562172638353
+    
+    Refactored to using Hooks and functional components
+
+[33mcommit 41049339075d76bc555c8d4c617ef8940bbfc073[m
+Author: Danh Nguyen <danhnguyen267@gmail.com>
+Date:   Wed Jul 3 09:50:38 2019 -0700
+
+    Refactored to using Hooks and functional components
+    
+    Changed some UI classes to functional components and taking advantage of React 16 Hooks.
+
+[33mcommit 97f9e6d789ba041b7bc600cf179997dec3d654c7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Jun 11 16:44:30 2019 -0300
+
+    Update sort initial state back to default
+    
+    Actually we need to change the Selectbox component too to accept an initial state
+
+[33mcommit 8bb0b578c1529def3dc4fa25164d282e7e742b66[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Jun 11 16:35:12 2019 -0300
+
+    Update initial sort state to highest price
+    
+    Just because the t-shirts are more cooler
+
+[33mcommit 74f631c3255d190806824afd5f96c6ca649b691f[m
+Merge: 8852919 c1a7e66
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Jun 4 15:32:03 2019 -0300
+
+    Merge pull request #17 from rithikachowta08/ie-fix
+    
+    Fix IE 11 blank page using polyfill
+
+[33mcommit c1a7e66bd18c303484dcecbf341c10a98bb3b9a9[m
+Author: rithika <rithzcool@gmail.com>
+Date:   Tue Jun 4 23:55:52 2019 +0530
+
+    Fix IE blank page
+
+[33mcommit 88529197611ca2b433764a4cc3ea9148ad588369[m
+Merge: 01f4c44 1e4972e
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon May 20 09:53:26 2019 -0300
+
+    Merge pull request #16 from deskoh/master
+    
+    Fixed typo.
+
+[33mcommit 1e4972e3139b5276e8135caac334c9c6ccea896d[m
+Author: deskoh <deskoh.sg@gmail.com>
+Date:   Fri May 17 18:32:36 2019 +0800
+
+    Fixed typo.
+
+[33mcommit 120ea9860c2acb164e73c5f4268bb37290cd8a58[m
+Author: hmble <w3bcode@gmail.com>
+Date:   Thu May 2 16:06:09 2019 +0530
+
+    No need for addProduct
+    
+    we are not passing addProduct prop down the component. The `onClick` method actually calls to `addProduct` from imported from `actions`.
+
+[33mcommit 01f4c44ebb42dce3888fb1bcc1fedb1bbb451969[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Feb 22 23:57:25 2019 -0300
+
+    Update README.md
+
+[33mcommit 776f8cfe0d8dd010790a761b7b6fd2298e17d5e6[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Feb 21 16:53:30 2019 -0300
+
+    Update README.md
+
+[33mcommit 1042abe249b67b5be46d23c80e95cc3f35142d1e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Feb 20 19:24:17 2019 -0300
+
+    SEO update
+
+[33mcommit 7db93d718b6dde1cba208144ffa068a8307a74a1[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Feb 9 19:45:38 2019 -0200
+
+    Update StarButton.js
+
+[33mcommit 7dc3814e9b7c4394cd121647a7510853f3d9516f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Feb 3 11:56:50 2019 -0200
+
+    Products update
+
+[33mcommit ac8f45e5172de537f983875dce9ea81649e66db4[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 19 16:44:56 2019 -0200
+
+    import order [skip ci]
+
+[33mcommit fff32bce089c9fb655d93502408d007143813c05[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jan 11 12:50:00 2019 -0200
+
+    Cleaning code [skip ci]
+
+[33mcommit 1f04cc73d9be3cfe0ac1ace0b309a76048d3c86f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Jan 10 09:39:20 2019 -0200
+
+    main margin-top adjusted
+
+[33mcommit af903463b336d4a57081ba5e5f03dade3c1218f7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Jan 10 09:32:28 2019 -0200
+
+    Shelf component refactoring; Removed clearfix;
+
+[33mcommit 00bf8523c6e931dd207491f4238e4666e74990eb[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jan 9 20:19:30 2019 -0200
+
+    Fixed products files that wasn't showing on firefox
+
+[33mcommit b01ed12e1a2a52b62ce2aadc8fc29109fdbcb192[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jan 9 15:28:17 2019 -0200
+
+    changed bag text to cart
+
+[33mcommit 9fe5d579c5d0b0fb39daa1ccdab08dac6897501e[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jan 9 13:51:34 2019 -0200
+
+    Replacing ComponentWillMount by ComponentDidMount
+
+[33mcommit 00badf7bb2bec21a9c62edd8ba7a83e8c0ad41a0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 14:51:39 2019 -0200
+
+    update readme [skip ci]
+
+[33mcommit 6645ce8a0992ac81a97a4466d582273af58d1ce8[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 14:50:23 2019 -0200
+
+    Update readme [skip ci]
+
+[33mcommit 9286614173ba154ef0c1e9dda036aa413316455a[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 14:45:50 2019 -0200
+
+    gif minified [skip ci]
+
+[33mcommit 1a1256b20fb64a255b57983755c21eb722b12598[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 12:57:10 2019 -0200
+
+    CartTotals initial state fixed
+
+[33mcommit 8117f0136c454b4d3dcbf1ca600b3265c569ff60[m
+Merge: 4eb74e1 01f05e1
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 12:56:20 2019 -0200
+
+    merge
+
+[33mcommit 4eb74e169ca843fe9dab48decb06ecd0fe206097[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 12:54:55 2019 -0200
+
+    Fixed add product in mobile and total initial state
+
+[33mcommit 01f05e18d40d93f99968e17cde93f312a541e250[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 04:40:57 2019 -0200
+
+    Update Readme [skip ci]
+
+[33mcommit f215e5f9893fc9a3485c2b1f19ef07003833b403[m
+Merge: c3d0748 b6f8874
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 04:05:09 2019 -0200
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit c3d074859e390f37b740dbe450dc228aaf480249[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 04:04:53 2019 -0200
+
+    Fixed products api url
+
+[33mcommit b6f8874a85c6eb51f042665fc1c33fab63a3360c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 03:27:03 2019 -0200
+
+    Update README.md
+
+[33mcommit ccf64841ddfdfedfce9821b2b7ff2c8075afb17c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 03:14:08 2019 -0200
+
+    Readme update
+
+[33mcommit dddf394ae6a6b37e817332663b56ae880ab2f9d0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 03:09:48 2019 -0200
+
+    readme circle CI shield
+
+[33mcommit 315a3bc01480932d13e4966a18146c7d52883520[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:53:04 2019 -0200
+
+    CI and readme update
+
+[33mcommit 753419ba19be2ef754504b1b477601b16b628e07[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:49:16 2019 -0200
+
+    CI -.-
+
+[33mcommit 186026d9a1d8fac8d35d70ede6ea1b3b01aae061[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:47:19 2019 -0200
+
+    CI
+
+[33mcommit a6972e33c5e872ef79398e9c19e1393ed2bc7f74[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:43:25 2019 -0200
+
+    CI
+
+[33mcommit 82057549e573907ccd2189ff30023c6c66cc63c7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:41:30 2019 -0200
+
+    CI
+
+[33mcommit 7d296078ae3a4ec648da7aa9f887d659696977d4[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:39:32 2019 -0200
+
+    CI
+
+[33mcommit 37a40954e4a52ea14cf671ae897fe26769a9e096[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:37:22 2019 -0200
+
+    CI
+
+[33mcommit fda86edc02b56d1f0a6f12cde3c0c1801d018482[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:31:53 2019 -0200
+
+    CI
+
+[33mcommit 28962488f141ad17ac1e58ba1e6ac221c49287fd[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:26:34 2019 -0200
+
+    CI
+
+[33mcommit dc80ae66bf4472d79e82b5dcb8850f1a48608f42[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:24:30 2019 -0200
+
+    CI
+
+[33mcommit ab8eac1f77a4597039dbb753b849d2f4395c5430[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:16:46 2019 -0200
+
+    package audit
+
+[33mcommit 581022a845bc57e5a90dbb733c337a596923bbf1[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:10:48 2019 -0200
+
+    Tweak CI file
+
+[33mcommit e64d6e7b140ab66848cbe9766daec660d54f9f2e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:07:47 2019 -0200
+
+    Fix CI config fie
+
+[33mcommit 58482beb3168cd9b8488341f4c08b78a7325dfef[m
+Merge: f121d41 fbe7976
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 02:03:32 2019 -0200
+
+    Merge pull request #7 from jeffersonRibeiro/project-refactoring
+    
+    Project refactoring
+
+[33mcommit fbe79761c5b612b0d27876861fe98567c46c5dfb[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 01:18:25 2019 -0200
+
+    CI
+
+[33mcommit 96ef8ac47cdec826bb11209ef3fbe2ccd8998efb[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 01:14:39 2019 -0200
+
+    configuring CI
+
+[33mcommit 7a39ac94911cc38498e93681be4a7d014eb73d5b[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 01:06:02 2019 -0200
+
+    coverage, readme, e2e test url
+
+[33mcommit 5b24494e8cc3fbf1dc643f05a207a84c7ffee440[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 00:49:07 2019 -0200
+
+    Readme update
+
+[33mcommit ec8d4ae8bf21d790663d4b0c60bfccd01e84823f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 00:37:52 2019 -0200
+
+    Readme
+
+[33mcommit 2148100bf68db0bb36b272d7c6519ad45cee91f0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 00:21:12 2019 -0200
+
+    Translation
+
+[33mcommit 3172cf3e9a0b6996d9f3b1859ef1a3e5cfefcac5[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 00:11:26 2019 -0200
+
+    Code styling adjusted with prettier
+
+[33mcommit 66aba80dee248053f820ebf2bb1571762825232c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jan 5 00:01:46 2019 -0200
+
+    tests adjusted and passing
+
+[33mcommit de122aa4f441d457ee8e87333ec003b20d61aa2b[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jan 4 23:47:47 2019 -0200
+
+    Floating cart style adjustments
+
+[33mcommit ba6e00117cfdd9d442a6dfdab426288770c78b54[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jan 4 23:27:42 2019 -0200
+
+    Sort and Filter working again
+
+[33mcommit 2192062971861ca6d03dd4eb94b043d755e5bf8b[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jan 4 23:10:33 2019 -0200
+
+    refactoring code
+
+[33mcommit f121d41dcde51a15b83fb07adaef8c6a732f31c5[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 22:18:23 2018 -0200
+
+    shadow opacity
+
+[33mcommit 4166485bf1e811c66f90c172d7a93fa72787319c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 22:15:46 2018 -0200
+
+    floating cart footer shadow fixed using before pseudo element
+
+[33mcommit df38359674f676dbc2d370f2904b49fd13ceab61[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 22:01:00 2018 -0200
+
+    mobile should show 2 products instead of 1
+
+[33mcommit d348eb5ae4e097fdb08c314c986720de2d089089[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 21:44:00 2018 -0200
+
+    typo
+
+[33mcommit f65cf5cba7a0aaeaf60a1384e47e3ade5e83a6a8[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 21:40:23 2018 -0200
+
+    disabled Redux devtools
+
+[33mcommit ef5774bd756585dde4e1ea5c68b7b2fe425668a2[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 21:27:40 2018 -0200
+
+    removed ref
+
+[33mcommit de93f7b08b4e70bd2f78055f436114bad1a03668[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 21:24:35 2018 -0200
+
+    refactor
+
+[33mcommit 70018f8f9009f70030b35ed1476a29441c1b703c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 20:11:05 2018 -0200
+
+    Fixed Floating cart subtotal always on bottom
+
+[33mcommit f7fd403bb84a291f14431aa206cfba50545b2dfc[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Dec 23 18:00:25 2018 -0200
+
+    Animation for products list in cart
+
+[33mcommit 841e06e359e28b845cef2ce9569a452e531eb703[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Dec 18 12:02:30 2018 -0200
+
+    CodeSandbox link update
+
+[33mcommit 25e87c3fc5389d4f635c617c2af51af9f9d5075e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Dec 18 11:33:43 2018 -0200
+
+    CodeSandbox link fix
+
+[33mcommit d3021c9feb20fc029c811fdd32a8cc1115ca89c4[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Dec 18 11:31:07 2018 -0200
+
+    CodeSandbox link
+
+[33mcommit 3338925c1f0f052031df5063d8746df36ed20116[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Dec 18 11:27:16 2018 -0200
+
+    Update README.md
+
+[33mcommit 9abcba972c027d6d70dba9ebc1c7c7e373bbe3f2[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Dec 4 14:51:55 2018 -0200
+
+    Updated packages to remove vulnerabilities
+
+[33mcommit 04a86451d16dc3350574f11ce36de1e49e7e0dee[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Nov 23 00:29:29 2018 -0200
+
+    React version
+
+[33mcommit 67bdbc3b4f5a0864692a27f10fa7e0d48f20c2a9[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue Nov 13 02:24:57 2018 -0200
+
+    Delete banner.jpg
+
+[33mcommit ef94674e3298d7ac4d555b5219516f7a24c663b1[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Nov 12 20:52:45 2018 -0200
+
+    update
+
+[33mcommit b635a5f040565037421a90d53195c896f0522d14[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Nov 11 14:14:32 2018 -0200
+
+    React version update and code refactoring
+
+[33mcommit e3269649aee236e169dc0f9ab664b72090a7dea5[m
+Author: tvglobo <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 29 11:28:46 2018 -0300
+
+    Package update
+
+[33mcommit a4eabca939b95e7c75c41bf7a5d277742c6227de[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Oct 24 23:54:01 2018 -0300
+
+    GA
+
+[33mcommit 1ab74928991afca7289aa8d6ba6872cdfeab7353[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Oct 22 11:18:03 2018 -0300
+
+    Update CartProduct.js
+
+[33mcommit b0db6d9993b7607502cc2cc19660b84dae7e79b3[m
+Merge: b636993 2dba008
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Sep 24 11:13:19 2018 -0300
+
+    Merge pull request #3 from ksakiyama/resolve-vulnerabilities
+    
+    Thanks @ksakiyama ! :grinning:
+
+[33mcommit 2dba008af896b7e646fee1e48829742693af6fb5[m
+Author: ksakiyama <k.sakiyama1@gmail.com>
+Date:   Sun Sep 23 20:39:43 2018 +0900
+
+    update packages
+
+[33mcommit b63699340bac576eef1cae760c7f31d0b0757a7b[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 30 12:55:56 2018 -0300
+
+    Update README.md
+
+[33mcommit 59858db5dd2f23579e14eeec1878ee5d2703ebbb[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 27 07:28:01 2018 -0300
+
+    #
+
+[33mcommit 9de1e53c5982debf97e9bba04f69043ff260387e[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 27 07:26:23 2018 -0300
+
+    Much cleaner :D
+
+[33mcommit 6e0cfa30b41600a45be3c820a9164fe584e919b5[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 27 07:11:02 2018 -0300
+
+    #
+
+[33mcommit 962faec387ae9101e9143d5910e83a027374b6c1[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 27 07:06:20 2018 -0300
+
+    Code cleanup
+
+[33mcommit ad8897aab48cc9da14ce25bc6a0a821fa8b7e4db[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 19:06:37 2018 -0300
+
+    Update README.md
+
+[33mcommit 604385c36497a183dbfd7363a44ffb3db5baada7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 19:06:12 2018 -0300
+
+    Add files via upload
+
+[33mcommit 9cf0cb6774c1d5b4c0898c757b6e4ccaca282776[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 19:05:05 2018 -0300
+
+    Delete react-shopping-cart.gif
+
+[33mcommit 865ef4f8640c7d7776df33a89a208a3aee1fa00c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 19:04:22 2018 -0300
+
+    Add files via upload
+
+[33mcommit ea5903bd0c150961607acd4fc21c9da7e4feb12c[m
+Merge: 78687da 0e71643
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 14:10:45 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit 78687da8a54f4c66dc5f04c0da4203de6d58d8ad[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Mon Jul 23 14:10:32 2018 -0300
+
+    Added spinner while products fetching is pending
+
+[33mcommit 0e71643c9eedcfc812acc8d6357388da74d7158f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jul 18 12:36:19 2018 -0300
+
+    Update App.js
+
+[33mcommit 6c4c575c0d6f7c002562e6439fbb8d713f436c51[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jul 18 12:35:29 2018 -0300
+
+    Delete Banner.js
+
+[33mcommit ee1db33b11da7d212b91fcdd1559b1bdba2446f2[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 15 01:10:16 2018 -0300
+
+    Delete App.test.js
+
+[33mcommit 6045ef8a5b8a2489e2942a8b6f6e5bf7cf2084f5[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 15 01:08:31 2018 -0300
+
+    Delete page-default.jpg
+
+[33mcommit 9858487ca76e214a32f358923a6c72a2ab991a95[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 15 01:08:24 2018 -0300
+
+    Delete page-bag-open.jpg
+
+[33mcommit f5c51c343f6551d2cfab5609a6f4ed4d6a9befe2[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 15 01:08:09 2018 -0300
+
+    Delete guide.psd
+
+[33mcommit 6ff5d68748edc08ed715ef62e28e6387d54235d9[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jul 14 01:18:42 2018 -0300
+
+    gif v2
+
+[33mcommit c7e4f050a4fb247bd9b280df5fc83066ee488986[m
+Merge: 3b8031f 6bf778d
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jul 14 00:43:54 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit 3b8031f4f9dc5fc3c688f15a365c0313c8cd46f6[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jul 14 00:43:39 2018 -0300
+
+    v2
+
+[33mcommit 6bf778dcaa30360fa0777a10332ac9e38ffedccc[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 13 11:23:18 2018 -0300
+
+    Update package.json
+
+[33mcommit 37d6522e7ccdf425d4f178d34ad23f6cefc80923[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jul 13 11:22:52 2018 -0300
+
+    Update package.json
+
+[33mcommit f0481ce3d69105d53cc35ddac3a3c824c720cc11[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 1 23:49:53 2018 -0300
+
+    #
+
+[33mcommit 02b6c7a9ebd7c03e6cd2ca16a795cb9461adf9e8[m
+Merge: 9c82568 ebe235c
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 1 20:03:46 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit 9c82568bcaf10215fcd0e9c8bbdbfa3a7e0ca642[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jul 1 20:03:20 2018 -0300
+
+    Translate
+
+[33mcommit ebe235c35e405fd6a3b3391f74c899ea768e0e65[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 22 09:31:30 2018 -0300
+
+    Update package.json
+
+[33mcommit c302574805d215114e638daf2f5fbe1455818bb1[m
+Merge: 2f6baea be85230
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jun 17 13:39:17 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit 2f6baea9f936125f5490c536f1de7e58652caee1[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jun 17 13:38:52 2018 -0300
+
+    #
+
+[33mcommit be85230353a3b1f0a09af770f5b517c6f7e674f4[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 16 19:38:00 2018 -0300
+
+    Update README.md
+
+[33mcommit fc4f1ebbb1fd62fd731624958a8c6d843fb1ef8f[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 16 19:32:04 2018 -0300
+
+    Github star button update
+
+[33mcommit 5521e7ede01f316e133e00fdde1b84802f212593[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sat Jun 16 19:13:57 2018 -0300
+
+    Github star button
+
+[33mcommit b3a7a097b236e310b6ca58ae0932fe52eaf2f46f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Jun 14 14:29:06 2018 -0300
+
+    Update README.md
+
+[33mcommit e9a7ffe55780221cfcab36e75b3a8f57b1a5b7ba[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Jun 14 13:02:37 2018 -0300
+
+    Update README.md
+
+[33mcommit 221560459e43cc1683244dd003aca4914e20e423[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jun 13 00:59:41 2018 -0300
+
+    Update README.md
+
+[33mcommit 4ae509ee6945c9a3c64b146819ee9484050a4afc[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jun 13 00:56:04 2018 -0300
+
+    Update README.md
+
+[33mcommit 5c174e115e8ad60b091acd7e1327732be02a3c19[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jun 13 00:53:27 2018 -0300
+
+    Update README.md
+
+[33mcommit 9be9ecd76d2fe75acaef409b56e0793990dba7b7[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Jun 13 00:51:44 2018 -0300
+
+    Update README.md
+
+[33mcommit 6884f128aac5fb6af6a5f3c3fbae56a3ca4fee16[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Jun 3 18:15:18 2018 -0300
+
+    Project cleanup - Tried to implement some updated scaffolding practices that I learned
+
+[33mcommit f390977c81c6d8cc0664e37a75eadecf51e90e5a[m
+Merge: 1b60030 11badb7
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 1 23:13:10 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-shopping-cart
+
+[33mcommit 1b60030281cdac587677fc5b5a0b91bba49a8af7[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 1 23:10:52 2018 -0300
+
+    GithubCorner
+
+[33mcommit de4ad52c73d7b81dd491c8be9f24303436d6850b[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 1 23:10:36 2018 -0300
+
+    Githubcorner
+
+[33mcommit 11badb720a87c2383d7163b05f922d641b37829d[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 1 22:13:31 2018 -0300
+
+    Update README.md
+
+[33mcommit 449277ec724a7b90f7f7e1d9c41358245c814415[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Fri Jun 1 22:06:23 2018 -0300
+
+    Deploying to Firebase
+
+[33mcommit f80fb62d7583b3b5edc8a3f937e597a4ee89beb5[m
+Author: Jefferson Ribeiro <6069943+jeffersonRibeiro@users.noreply.github.com>
+Date:   Thu May 31 13:18:37 2018 -0300
+
+    Update README.md
+
+[33mcommit cc08264d20bd67b1636082fc6cc5664033d2c538[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed May 2 22:15:28 2018 -0300
+
+    Products API url fix
+
+[33mcommit 868c9fff7ff1968ede25de3e997759f11b8b29d1[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed May 2 22:13:37 2018 -0300
+
+    Readme using Axios
+
+[33mcommit bdc023fa2eebbed5cf7a8d2bdbaa751a767deb61[m
+Merge: 6e48574 fd66ef4
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed May 2 22:09:04 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-store
+
+[33mcommit 6e485744a20db9f105fa76d189ba839e2effe71e[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed May 2 22:08:40 2018 -0300
+
+    Fetch exchanged for Axios
+
+[33mcommit fd66ef42422fb5bee061f4c5452ec5662a49cd08[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue May 1 00:58:30 2018 -0300
+
+    Update README.md
+
+[33mcommit 73f19546f71021849948fd2b4d2cefc369ea8d09[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue May 1 00:58:04 2018 -0300
+
+    Update README.md
+
+[33mcommit 4d1070943e7ef499dd52a541bb62056abcc2719c[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue May 1 00:57:16 2018 -0300
+
+    Update README.md
+
+[33mcommit cee6d37eec747c79480259804f22af0214ad7cc0[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue May 1 00:56:36 2018 -0300
+
+    Update README.md
+
+[33mcommit 6691e1a28759c49ba8537ec757624bd43f1b59b4[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Tue May 1 00:46:52 2018 -0300
+
+    Update README.md
+
+[33mcommit 378698dd0e0a37803674715d25c74709eed9941f[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Sun Apr 15 23:02:53 2018 -0300
+
+    Update README.md
+
+[33mcommit 6a152b6d1ed4b9e556ba24ff39900dce33c0d2e0[m
+Merge: 1fd04ae a8ed452
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 12 17:34:44 2018 -0300
+
+    Merge branch 'master' of https://github.com/jeffersonRibeiro/react-store
+
+[33mcommit 1fd04aec54bba8bffb07e2675f3251a3afc347cc[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 12 17:34:19 2018 -0300
+
+    Code cleanup
+
+[33mcommit a8ed452cf204fca7a405d90f4bf56bb76fd28d46[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Apr 12 16:52:08 2018 -0300
+
+    Update README.md
+
+[33mcommit b918c1dbdeef2f3db4d2d72155a6e160268cae96[m
+Merge: 3be96eb db7143d
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Apr 12 16:48:35 2018 -0300
+
+    Merge pull request #1 from jeffersonRibeiro/documentation
+    
+    Documentation
+
+[33mcommit db7143df31b5d4e2961aad66f7d34bf3d8deebd6[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Apr 12 16:45:05 2018 -0300
+
+    Documentation
+
+[33mcommit 1d9e14a2677b0db036c288c3af268d074999d7ec[m
+Author: Jefferson Ribeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Thu Apr 12 13:31:15 2018 -0300
+
+    readme
+
+[33mcommit 3be96eb91d3e94306003414a1c6f29a368f6831a[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 12 13:25:47 2018 -0300
+
+    Project cleanup
+
+[33mcommit 66cf10a6fb33362e7853f95948dbfd150fe81cda[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 11 21:16:45 2018 -0300
+
+    Mobile Responsive adjustments
+
+[33mcommit 452be4dd0ce0942a05eac17442e4e9fb46a13a8f[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 11 16:43:01 2018 -0300
+
+    Project Cleanup
+
+[33mcommit 47289561b35373c1b4883d3fd89bc7d230b4b2b9[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Apr 11 11:42:11 2018 -0300
+
+    Header removido
+
+[33mcommit 391b015dd3c618e6da3d31f2257e97f7d08c9e1b[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Apr 11 11:07:04 2018 -0300
+
+    Bonus feature: Sort by lowest price and highest price!
+
+[33mcommit 5dfcbf4aa5ccd59512df87b0a41768c6c3736184[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Apr 11 07:41:23 2018 -0300
+
+    Filters styled and Banner add
+
+[33mcommit 600934ec757c826e142573b8f72ef7dee5e2e108[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Apr 11 03:28:08 2018 -0300
+
+    Linkedin link fixed
+
+[33mcommit a1b35d408f965876b0490a04aa717293c204c3e0[m
+Author: JeffersonRibeiro <jefferson.ribeiro.contato@gmail.com>
+Date:   Wed Apr 11 03:23:25 2018 -0300
+
+    General styles and code refactor
+
+[33mcommit f8f76c7cd5b3aff2b5b5e76f3a144066b115b547[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Tue Apr 10 23:37:37 2018 -0300
+
+    Bonus feature: Stoppers!
+
+[33mcommit 5921e9cd0d3e487e6f8780445c86354cc5f57fe0[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Tue Apr 10 23:01:01 2018 -0300
+
+    Bonus feature: Filters!
+
+[33mcommit 54c0f6f26680ccd94781d2b73c50ab2d07e35155[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Tue Apr 10 20:36:49 2018 -0300
+
+    Project cleanup
+
+[33mcommit 7d85f3c41e96e8e30afd55a099e4058f201958b5[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Tue Apr 10 18:12:16 2018 -0300
+
+    Code refactoring! :D
+
+[33mcommit b13b6c3453d7909ba36ec04a4659a924ea47d385[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Tue Apr 10 14:57:00 2018 -0300
+
+    Cart persistence feature done
+
+[33mcommit 68118a8fb9ab12fdf9f78c9f19f786b97bcba6ab[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Mon Apr 9 16:20:08 2018 -0300
+
+    Documentation: responsive gif
+
+[33mcommit 13112175cf9b9da5d72f047db9cec96e724c025f[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Mon Apr 9 16:09:54 2018 -0300
+
+    Responsive: Mobile and tablet version
+
+[33mcommit bc7c32d1e91a037621000e1f87c0684d218c28a3[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Mon Apr 9 13:43:09 2018 -0300
+
+    FloatCart done
+
+[33mcommit f7f665cce8d130e70c15246d9a5d85fc39b7460b[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Mon Apr 9 08:15:31 2018 -0300
+
+    FloatCart - Total price, best installment and  product quantity
+
+[33mcommit 155ab1ccc590ee9f4567469b67827148e187a709[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Mon Apr 9 01:53:24 2018 -0300
+
+    FloatCart - Add products
+
+[33mcommit b03c62663374fb4f38844a8326b93918cbfec5e5[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Sun Apr 8 22:27:12 2018 -0300
+
+    Redux implemented on shelfContainer
+
+[33mcommit dd345c73ae6a9fb0c52b255bc8a2297c81082fb3[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Fri Apr 6 20:20:26 2018 -0300
+
+    Float-cart - Scroll fix for multiple products and general style fixes
+
+[33mcommit 3f190010954d55c748f48a3dd9ce50e53a25d5ba[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 5 19:19:01 2018 -0300
+
+    Float-cart with static values
+
+[33mcommit 4ac74bfe975e6b4eaf60965367aa7b49fb2b1054[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 5 11:51:24 2018 -0300
+
+    Product page style adjustments and price format
+
+[33mcommit 87666adce74d2b3b083d883fa4de0fb1e22cf841[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Thu Apr 5 09:43:48 2018 -0300
+
+    Basic product page done
+
+[33mcommit 0ef68030419634efde0ed5a094edde3c6c9f8a0d[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 4 23:34:06 2018 -0300
+
+    Preprocessor add and react folder structure updated
+
+[33mcommit 0a47ab078c6658f404d666266231039243237457[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 4 22:29:32 2018 -0300
+
+    Project Cleanup
+
+[33mcommit 649736593e3d9d7ff4753fdbd0e4a6dd8624c423[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 4 22:19:31 2018 -0300
+
+    Server setup and static files
+
+[33mcommit 29290e5f10c238b239c1ccf2c40a1c48774ab0ec[m
+Author: jefferson Ribeiro <jefferson.r.silva@infracommerce.com.br>
+Date:   Wed Apr 4 21:39:47 2018 -0300
+
+    initial commit
